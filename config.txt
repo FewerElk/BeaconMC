@@ -1,0 +1,5 @@
+whitelist=true
+max_players=5
+motd=§aMy%20Server
+debug_mode=true
+lang=en
